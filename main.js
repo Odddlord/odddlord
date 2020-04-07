@@ -56,11 +56,11 @@ $(window).on("load resize scroll",function(e){
 				var snipe = $("#snipe").innerHeight();
 				$("#wrapper").css("margin-top", snipe);
 				
-				/*var maxHeight = 0;
+				var maxHeight = 0;
 				$(".quote-desktop").each(function(){
 				   var thisH = $(this).height();
 				   if (thisH > maxHeight) { maxHeight = thisH; }
 				});
 
-				$(".quotator-wrapper").height(maxHeight);*/
+				$(".quotator-wrapper").height(maxHeight);
 			});
