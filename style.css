@@ -193,7 +193,7 @@ a.button:hover {
 #snipe a.button {
 	width: 225px;
 	color: #000000 !important;
-	background-image: url("_img/bg-yellow.png");
+	background-image: "bg-yellow.png";
   	background-attachment: fixed;
   	background-position: center;
   	background-repeat: no-repeat;
@@ -216,7 +216,7 @@ a.button:hover {
 	margin:0 auto 0;
 	padding:0;
 	background:#000000;
-	background-image: url("../_img/bg-mobile.png");
+	background-image: "bg-mobile.png";
   	background-attachment: fixed;
   	background-position: center;
   	background-repeat: no-repeat;
