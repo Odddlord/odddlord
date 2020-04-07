@@ -319,6 +319,7 @@ a.button:hover {
   	background-position: center;
   	background-repeat: no-repeat;
   	background-size: cover;
+	display: block;
 	}
 	
 	#snipe h1 {
