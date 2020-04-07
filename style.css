@@ -314,7 +314,11 @@ a.button:hover {
 	}
 	
 	#wrapper {
-		background-image: "bg-pink.png";
+	width:100%;
+	margin:0 auto 0;
+	padding:0;
+	background:#000000;
+	background-image: "bg-pink.png";
   	background-attachment: fixed;
   	background-position: center;
   	background-repeat: no-repeat;
