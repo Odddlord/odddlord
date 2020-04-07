@@ -432,7 +432,7 @@ h1.ticket-header {
 #ticket-info-inner {
 	color:#FFFFFF;
 	text-align:center;
-	background-image: url("../_img/bg-hearts.png");
+	background-image: "_img/bg-hearts.png";
   	background-position: top right;
   	background-repeat: no-repeat;
   	background-size:contain;
