@@ -314,7 +314,7 @@ a.button:hover {
 	}
 	
 	#wrapper {
-		background-image: url("../_img/bg-pink.png");
+		background-image: "bg-pink.png";
   	background-attachment: fixed;
   	background-position: center;
   	background-repeat: no-repeat;
@@ -390,7 +390,7 @@ a.button:hover {
 	padding:0px 22px 0px;
 	margin:0 auto 0;
 	max-width:1580px;
-	background-image: url("../_img/bg-stars-mobile.png");
+	background-image: "bg-stars-mobile.png";
   	background-position: center;
   	background-repeat: no-repeat;
   	background-size:contain;
@@ -432,7 +432,7 @@ h1.ticket-header {
 #ticket-info-inner {
 	color:#FFFFFF;
 	text-align:center;
-	background-image: "_img/bg-hearts.png";
+	background-image: "bg-hearts.png";
   	background-position: top right;
   	background-repeat: no-repeat;
   	background-size:contain;
@@ -453,7 +453,7 @@ h1.ticket-header {
 	margin:0 auto 22px;
 	transition:0s;
 	color: #000000;
-	background-image: url("../_img/bg-yellow.png");
+	background-image: "bg-yellow.png";
   	background-attachment: fixed;
   	background-position: center;
   	background-repeat: no-repeat;
@@ -499,13 +499,13 @@ h1.ticket-header {
 #calendar {
 	display:block;
 	position: relative;
-	background-image: url("../_img/bg-yellow.png");
+	background-image: "bg-yellow.png";
   	background-attachment: fixed;
   	background-position: center;
   	background-repeat: no-repeat;
   	background-size: cover;
 	border:8px solid #daa520;
-	border-image: url(../_img/bg-yellow.png) 30 round;
+	border-image: "bg-yellow.png" 30 round;
 	margin:0 0 44px 0;
 	z-index:9;
 }
@@ -555,7 +555,7 @@ h1.ticket-header {
 	}
 	
 	#copy {
-		background-image: url("../_img/bg-stars-desktop.png");
+		background-image: "bg-stars-desktop.png";
 	}
 	
 }
